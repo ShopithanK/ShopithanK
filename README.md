@@ -3,7 +3,7 @@
 <h2>✨ Software Development Projects:</h2>
 
 - <b>Statistics Canada Diabetes Analysis (Term Project)</b>
-  - [C Code and GNU Plot](https://github.com)
+  - [C and GNU Plot Code](https://github.com)
 
 <h2>📫 Connect With Me:</h2>
 
