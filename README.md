@@ -3,7 +3,7 @@
 <h2>✨ Software Development Projects:</h2>
 
 - <b>C Projects (Course Term Project)</b>
-  - [Statistics Canada Diabetes Analysis](https://github.com)
+  - [Statistics Canada Diabetes Analysis](https://github.com/ShopithanK/Statistics-Canada-Diabetes-Analysis-CSV)
 
 <h2>📫 Connect With Me:</h2>
 
