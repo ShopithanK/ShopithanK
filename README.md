@@ -7,6 +7,11 @@
 
 <h2>📫 Connect With Me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
+[<img align="left" alt=" | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/shopithan/
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ShopithanK" />
+  </a>
+</p>
